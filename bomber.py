@@ -6,7 +6,7 @@ url = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 os.system("pkg install figlet -y ")
 os.system("clear")
 joker = input(f"{red}Enter liens : ")
-if joker == "kiram to kon nanat D.R SD":
+if joker == "mr joooon":
     os.system("clear")
     os.system("figlet sms bomber")
     print(f"{green}===========================================")
